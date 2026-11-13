@@ -12,3 +12,4 @@ C:\Users\ABDULLO\Desktop\C#\week2\day1\CLASS\obj\Debug\net10.0\refint\CLASS.dll
 C:\Users\ABDULLO\Desktop\C#\week2\day1\CLASS\obj\Debug\net10.0\CLASS.pdb
 C:\Users\ABDULLO\Desktop\C#\week2\day1\CLASS\obj\Debug\net10.0\CLASS.genruntimeconfig.cache
 C:\Users\ABDULLO\Desktop\C#\week2\day1\CLASS\obj\Debug\net10.0\ref\CLASS.dll
+C:\Users\ABDULLO\Desktop\C#\week2\day1\CLASS\obj\Debug\net10.0\CLASS.sourcelink.json
